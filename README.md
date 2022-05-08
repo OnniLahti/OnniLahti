@@ -9,3 +9,9 @@
 
 - <b>Pixel art</b>
   - [Trash adventure art assets](!!!!!!!!!!!)
+
+<h2>Contact:</h2>
+
+[<img align="left" alt="OnniLahti | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/onni-lahti-5a406b23a/
