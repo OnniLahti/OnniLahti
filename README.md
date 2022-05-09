@@ -17,8 +17,8 @@
 
 [linkedin]: https://www.linkedin.com/in/onni-lahti-5a406b23a/
 
-<h2></h2>
+<h2>Stats:</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onnilahti&theme=light&hide_langs_below=1" alt="Onni's github languages"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=onnilahti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Onni's github stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=onnilahti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Onni's github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onnilahti&theme=light&hide_langs_below=1" alt="Onni's github languages"/>
