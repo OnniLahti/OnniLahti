@@ -5,10 +5,11 @@
 - <b>Python</b>
   - [Basic hangman game](https://github.com/OnniLahti/Hangman)
 
-<h2>Art Projects:</h2>
+<h2>Art Assets:</h2>
 
 - <b>Pixel art</b>
-  - [Trash adventure art assets](!!!!!!!!!!!)
+  - [Winter 2022](!!!!!!!!!!!)
+  - [Summer 2022](!!!!!!!!!!!)
 
 <h2>Contact:</h2>
 
